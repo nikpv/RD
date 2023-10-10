@@ -1,0 +1,1 @@
+(function(){var e=document.body,a=e.getElementsByClassName("menu-trigger")[0];void 0!==a&&a.addEventListener("click",function(){e.className="menu-active"==e.className?"":"menu-active"})}).call(this);
